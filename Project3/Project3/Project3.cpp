@@ -5,9 +5,11 @@
 using namespace std;
 int main()
 {
-    int x = 10;
-    cout << "Ibrahim";
-    cout << "Ahmed";
+
+	for (int i = 1; i <= 10; i++) {
+		cout << i;
+	}
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
