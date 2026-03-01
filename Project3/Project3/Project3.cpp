@@ -5,9 +5,7 @@
 using namespace std;
 int main()
 {
-    for (int i = 1; i <= 10; i++) {
-        cout << "Hamada";
-    }
+    cout << "Ahmed";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
